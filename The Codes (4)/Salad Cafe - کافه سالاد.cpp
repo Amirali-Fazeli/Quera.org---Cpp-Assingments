@@ -2,7 +2,6 @@
 #include <vector>
 using namespace std;
 
-// please do have in mind that for solving this specific question, I did search many websites and asked many questions from the AI tools. (There is No Deny in it)
 
 const int figure = 100;
 const int table = 100003;
@@ -323,3 +322,4 @@ int main() {
 	
 	return 0;
 }
+
